@@ -69,3 +69,5 @@ Investment App Functional Requirements List
 33. Users should be able to view a detailed view of their current and historical stock portfolio.
 
 34. In the detailed view of their stock portfolio, users should be able to create, store, and view personal notes.
+
+35. Users should be able to create/edit/delete lists of different stock options of their choosing.
