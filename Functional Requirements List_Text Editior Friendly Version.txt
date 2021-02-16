@@ -3,6 +3,17 @@ Investment App Functional Requirements List
 
 
 1. New users should be able to sign up.
+     Tasks: 
+     Create New Account Button and once clicked: 
+     Form to fill out to include: 
+     Create UserName & Password
+     First Name/Last Name
+     D.O.B
+     Address/City/State/Zip
+     Email
+     Phone number?
+     Bank/Account number (for transfers & deposits)
+
 
 2. Existing users should be able to log in/sign in.
 
