@@ -1,25 +1,22 @@
-1. New users should be able to sign up.
+Back-End Requirements (Rough draft, feel free to add any that may be missing.)
 
-2. Existing users should be able to log in/sign in.
+1. Utilize Firebase to handle all user sign ins, log out's, sign ups, referrals, notifications.
+    - Users should be able to opt-in/opt-out of alerts/notifications about new IPO offerings.
+    - Users should be able to opt-in/opt-out of alerts/notifications about the status of their investments.
 
-3. Existing users should be able to log out.
+2. Integrate a Discord-like chat system.
+    - Users should be able to choose to opt-in/opt-out of social features during account creation.
+    - Users should be able to opt-in/opt-out of social features individually (set status as unavailable, 
+    disable receiving direct messages from other users, disable receiving notifications related to other users) 
+    at any time after account creation.
 
-4. Users should be able to send referrals for the app to non-users.
+3. Decide on APIs to get Stock Data, Stock News, Crypto Data, Crypto News
+    - Users should be able to search for stock options by category (Entertainment, Travel, Technology, etc.).
+    - Users should be able to view real-time data and trends for crypto-currency.
+    - Users should be able to view reliable market forecasts.
 
-5. Users should be able to find other users and connect with them.
+4. Handle payments/payouts.
+    - Users should be able to link a bank account directly (w/ acct. + routing num), or with debit card.
 
-6. Users should be able to send direct messages to other users.
-
-7. Users should be able to search for stock options by category (Entertainment, Travel, Technology, etc.).
-
-8. Users should be able to view real-time data and trends for crypto-currency.
-
-9. Users should be able to view reliable market forecasts.
-
-10. Users should be able to opt-in/opt-out of alerts/notifications about new IPO offerings.
-
-11. Users should be able to choose to opt-in/opt-out of social features during account creation.
-
-12. Users should be able to opt-in/opt-out of social features individually (set status as unavailable, disable receiving direct messages from other users, disable receiving notifications related to other users) at any time after account creation.
-
-13. Users should be able to opt-in/opt-out of alerts/notifications about the status of their investments.
+5. Utilize AWS Amplify for certain features.
+    - Helps integrate APIs and manage the backend
