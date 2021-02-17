@@ -3,12 +3,37 @@ Investment App Functional Requirements List
 
 
 1. New users should be able to sign up.
+     Tasks: 
+     Create New Account/Sign up Now Button and once clicked
+     leads to: 
+     Form to fill out to include: 
+     Create UserName & Password
+     First Name/Last Name
+     D.O.B
+     Address/City/State/Zip
+     Email
+     Phone number?
+     Bank/Account number (for transfers & deposits)
+
 
 2. Existing users should be able to log in/sign in.
+    Tasks: 
+    Create a LogIn Button with two input boxes that accept a Username & Password
+    Option to store Username & password so it makes signing in easy?
+    Option to sign in from 3rd party apps like Google?
 
 3. Existing users should be able to log out.
+    Create a LogOut Button 
 
 4. Immediately after logging in/starting the app, the user should be able to see their simplified portfolio overview.
+   Create a homepage/launch pad (includes #6 - color coded trends)
+   Create a Navigation Bar
+   Communication Link to DM other Users
+   Search Bar to search for specific stock (Drop Down menu with icons for other categories - requirement #14 & #16; Drop Down Menu: )
+   Navigation Bar should be able to connect to:
+    Profile Page:  
+    Optional Public Profile/Social Site 
+    History Page (requirement #15)
 
 5. Users should have an account created or any existing accounts called and utilized to trade with upon signing up.
 
