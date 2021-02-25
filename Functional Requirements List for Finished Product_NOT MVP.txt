@@ -1,0 +1,102 @@
+Investment App Functional Requirements List
+
+*** You will see some functional requirements that are marked "req'd for MVP". This means that they are required to be implemented in the minimum viable product. For a convenient list of just the functional requirements for the MVP, please see "Functional Requirements List for Minimum Viable Product.txt" ***
+
+1. New users should be able to sign up. **(req'd for MVP)**
+     Tasks: 
+     Create New Account/Sign up Now Button and once clicked
+     leads to: 
+     Form to fill out to include: 
+     Create UserName & Password
+     First Name/Last Name
+     D.O.B
+     Address/City/State/Zip
+     Email
+     Phone number?
+     Bank/Account number (for transfers & deposits)
+
+
+2. Existing users should be able to log in/sign in. **(req'd for MVP except where specified)**
+    Tasks: 
+    Create a LogIn Button with two input boxes that accept a Username & Password
+    Option to store Username & password so it makes signing in easy? **(NOT req'd for MVP)**
+    Option to sign in from 3rd party apps like Google? **(NOT req'd for MVP)**
+
+3. Existing users should be able to log out. **(req'd for MVP)**
+    Create a LogOut Button
+
+4. Immediately after logging in/starting the app, the user should be able to see their simplified portfolio overview. **(req'd for MVP except where specified)**
+   Create a homepage/launch pad (includes #6 - color coded trends)
+   Create a Navigation Bar
+   Communication Link to DM other Users **(NOT req'd for MVP)**
+   Search Bar to search for specific stock (Drop Down menu with icons for other categories - requirement #14 & #16; Drop Down Menu: ) **(Categories NOT required for MVP - only Search Bar req'd)**
+   Navigation Bar should be able to connect to:
+    Profile Page:  
+    Optional Public Profile/Social Site **(NOT req'd for MVP)**
+    History Page (requirement #15) **(NOT req'd for MVP)**
+
+5. Users should have an account created or any existing accounts called and utilized to trade with upon signing up.
+
+6. Users should be able to quickly distinguish positive and negative changes/trends (color-coding). **(req'd for MVP)**
+
+7. Users should be able to create a public profile page that includes some details about their investment portfolio.
+
+8. Users should be able to control what information is displayed on their public profile page.
+
+9. Users should be able to send referrals for the app to non-users.
+
+10. Users should be able to see if a referral has been accepted.
+
+11. Users should be able to find other users and connect with them.
+
+12. Users should be able to send direct messages to other users.
+
+13. Users should be able to search for stock options using a search bar. **(req'd for MVP)**
+
+14. Users should be able to search for stock options by category (Entertainment, Travel, Technology, etc.).
+
+15. Users should be able to view a list of all stocks they have bought/sold before that includes the price that they bought at and the price they sold at.
+
+16. Users should be able to see stock categories represented with icons/pictures.
+
+17. Users should be able to filter search bar results based on a variety of features (including price and whether they are warrants or not).
+
+18. Users should be able to find definitions and explanations of key investing terms. **(req'd for MVP)**
+
+19. Users should be able to buy/sell stocks without using real money (paper trading). **(req'd for MVP)**
+
+20. Users should be able to buy/sell stocks with minimal navigation (one-button buying/selling with confirmation, ideally). **(req'd for MVP)**
+
+21. Users should be able to view current news related to stocks, investing, and crypto-currency. **(req'd for MVP)**
+
+22. Users should be able to view educational material related to stocks, investing, and crypto-currency. **(req'd for MVP)**
+
+23. Users should be able to view real-time market data and trends for individual stocks. **(req'd for MVP)**
+
+24. Users should be able to see an indication on stocks they have bought/sold before.
+
+25. Users should be able to view real-time data and trends for crypto-currency. **(req'd for MVP)**
+
+26. Users should be able to view reliable market forecasts.
+
+27. Users should be able to opt-in/opt-out of alerts/notifications about new IPO offerings.
+
+28. Users should be able to see status of other users (online, offline, away, unavailable).
+
+29. Users should be able to choose to opt-in/opt-out of social features during account creation.
+
+30. Users should be able to opt-in/opt-out of social features individually (set status as unavailable, disable receiving direct messages from other users, disable receiving notifications related to other users) at any time after account creation.
+
+31. Users should recieve push notifications about the status of their investments. **(req'd for MVP)**
+
+32. Users should be able to opt-in/opt-out of alerts/notifications about the status of their investments. 
+
+33. Users should be able to view an overview of their stock portfolio. **(req'd for MVP)**
+
+34. Users should be able to view a detailed view of their current and historical stock portfolio.
+
+35. In the detailed view of their stock portfolio, users should be able to create, store, and view personal notes.
+
+36. Users should be able to create/edit/delete lists of different stock options of their choosing.
+
+37. Users should be able to browse for stock options. **(req'd for MVP)**

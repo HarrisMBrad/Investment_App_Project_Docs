@@ -1,6 +1,6 @@
 # Investment_App_Project_Docs
 
-This repository includes the documentation files for the Investment App group project for IBG students.
+This repository includes the planning files for the Investment App group project for IBG students.
 
 ## Overview of Project (current as of 2/14/2021)
 
@@ -12,7 +12,7 @@ Please see the Functional Requirements List file for up-to-date information abou
 
 ### 2. Where Will App Data be Stored?
 
-The plan is for application data to be stored via AWS Lamda.
+The plan is for application data to be stored via AWS Lambda.
 
 ### 3. Security
 

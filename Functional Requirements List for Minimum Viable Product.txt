@@ -1,0 +1,108 @@
+Investment App MVP Functional Requirements List
+
+1. New users should be able to sign up.
+     Tasks: 
+      Create New Account/Sign up Now Button and once clicked leads to: 
+        Form to fill out to include: 
+          Create UserName & Password
+          First Name/Last Name
+          D.O.B
+          Address/City/State/Zip
+          Email
+          Phone number?
+          Bank/Account number (for transfers & deposits)
+
+
+2. Existing users should be able to log in/sign in.
+    Tasks: 
+      Create a LogIn Button with two input boxes that accept a Username & Password
+
+3. Existing users should be able to log out.
+    Tasks:
+      Create a LogOut Button 
+
+4. Immediately after logging in/starting the app, the user should be able to see their simplified portfolio overview.
+    Tasks:
+      Create a homepage/launch pad (color coded trends)
+        Create a Navigation Bar
+        Create a display that shows the user the total money in their investment accounts
+        Create a horizontal scroller that contains:
+          One 30-day performance graph for each stock the user is invested in
+        Search Bar to search for specific stock
+        Navigation Bar should be able to connect to:
+          HomePage/Launch Pad
+          My Stocks
+          Browse Stocks
+          Educational Material
+          News
+          Settings
+          Log Out
+
+5. Users should be able to find definitions and explanations of key investing terms and educational material related to stocks, investing, and crypto-currency.
+    Tasks:
+      Create an Educational Material Page that contains links to:
+        Glossary of Investing Terms (internal page on site)
+        Beginner's Guide to Investing (internal page on site)
+        External Links for More Information
+      Create a Glossary of Investing Terms page
+        Pull data from credible sources and include links to sources
+      Create an Beginner's Guide to Investing page
+        Pull data from credible sources and include links to sources
+
+6. Users should be able to buy/sell stocks without using real money (paper trading).
+    Tasks:
+      Create database variable for each user that holds a total of paper money
+      Initialize paper money database variable for each user as $10,000? - [can be changed if desired]
+
+7. Users should be able to view real-time market data and trends for individual stocks.
+    Tasks:
+      Create a page that displays information for a single stock that contains:
+        Name of stock
+        Price per stock
+        Graph of past performance (30 days)
+
+8. Users should be able to buy/sell stocks with minimal navigation (one-button buying/selling with confirmation, ideally).
+    Tasks:
+      On the page that displays information for a single stock, include:
+        A "Buy Stock" button, which prompts:
+          A pop-up that has a form that includes:
+            An entry box for how many stocks a user wants to buy
+            A display that shows the total amount of money the transaction costs (based on user input in entry box)
+            A display that shows the number of total stocks the user will have after the transaction (based on user input in entry box)
+            A submit button (pressing this button should prompt an alert that asks the user "Are you sure?")
+        A "Sell Stock" button, which prompts:
+          A pop-up that has a form that includes:
+            An entry box for how many stocks a user wants to sell
+            A display that shows the total amount of money the transaction will give to the user (based on user input in entry box)
+            A display that shows the number of total stocks the user will have left after the transaction (based on user input in entry box)
+            A submit button (pressing this button should prompt an alert that asks the user "Are you sure?")
+
+9. Users should be able to view real-time data and trends for crypto-currency.
+    Tasks:
+      On the page that displays information for a single stock:
+        Update the graph of past performance in real-time
+      
+10. Users should be able to view current news related to stocks, investing, and crypto-currency.
+    Tasks:
+      Create a News page that displays most recent news related to stocks, investing, and crypto-currency.
+        [Should see if there are any free online databases/APIs from which we can retrieve this information]
+
+11. Users should recieve push notifications about the status of their investments.
+    Tasks:
+      (Back-end task) Set up push notifications.
+
+12. Users should be able to view an overview of their stock portfolio.
+    Tasks:
+      Create a My Stocks page that includes:
+        A list of all stocks that a user is currently invested in
+        The number of stocks of each type the user owns
+        Current value of the user's stocks of each type
+
+13. Users should be able to browse for stock options.
+    Tasks:
+      Create a Browse Stocks page that includes:
+        A search bar that filters the list of results by name
+        An alphabetized, scrollable list of all stock options that are available (only show 25 at a time)
+          * This list should automatically update when user types in the search bar *
+        A "show more" button that shows the next 25 stocks in the list
+        
