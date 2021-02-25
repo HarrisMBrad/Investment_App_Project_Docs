@@ -2,6 +2,8 @@
 
 This repository includes the planning files for the Investment App group project for IBG students.
 
+To view the source code for this app, please see the [code repository](https://github.com/KnightsOfAvalon/Investment_App_Code) for this project.
+
 ## Overview of Project (current as of 2/14/2021)
 
 This project is still in the very early stages of development. Most details are subject to change. The following is an overview of the most current group concensus on major aspects of the project. Please feel free to propose changes.
