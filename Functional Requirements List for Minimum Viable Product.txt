@@ -35,7 +35,7 @@ Investment App MVP Functional Requirements List
           Browse Stocks
           Educational Material
           News
-          Settings
+          My Profile
           Log Out
 
 5. Users should be able to find definitions and explanations of key investing terms and educational material related to stocks, investing, and crypto-currency.
@@ -105,4 +105,20 @@ Investment App MVP Functional Requirements List
         An alphabetized, scrollable list of all stock options that are available (only show 25 at a time)
           * This list should automatically update when user types in the search bar *
         A "show more" button that shows the next 25 stocks in the list
+
+14. Users should be able to make changes to their user profile (first name, last name, username, password, email address, phone number, mailing address).
+    Tasks:
+      Create a My Profile page that includes:
+        An editable form that comes with the following pre-filled text boxes:
+          First Name
+          Last Name
+          Username
+          Current Password (NOT pre-filled)
+          New Password (NOT pre-filled)
+          Confirm New Password (NOT pre-filled)
+          Email Address
+          Phone Number
+          Mailing Address
+        An "Apply Changes" button that submits the form and updates the info in the database for that user
+
         
