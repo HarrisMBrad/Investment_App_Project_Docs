@@ -1,5 +1,5 @@
 # IBG SHADOW TRADING
-
+* @KnightsOfAvalon
 This repository includes the planning files for the investment app called "IBG Shadow Trading". This app is being created for a group project for IBG students.
 
 To view the source code for this app (when we have started writing code), please see the [code repository](https://github.com/KnightsOfAvalon/Investment_App_Code) for this project.
